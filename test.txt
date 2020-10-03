@@ -1,14 +1,1 @@
-B
-B
-A
-A
-B
-B
-C
-
-B
-B
-B
-C
-C
 this is a test file.
